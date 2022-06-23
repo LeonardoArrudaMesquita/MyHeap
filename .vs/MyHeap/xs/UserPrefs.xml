@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{3D066A35-537E-4A7B-8F9F-BB8B0516BBCF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyHeap/MinHeap.cs">
+    <Files>
+      <File FileName="MyHeap/Program.cs" Line="9" Column="47" />
+      <File FileName="MyHeap/MinHeap.cs" Line="6" Column="21" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyHeap" expanded="True">
+            <Node name="MyHeap" expanded="True">
+              <Node name="MinHeap.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MyHeap FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
